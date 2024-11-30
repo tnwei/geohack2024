@@ -2,6 +2,8 @@
 
 On Nov 16 - 18 2024, 10 teams of five gathered at Common Ground Bukit Bintang, Kuala Lumpur to hack together geo-data science solutions in the span of 48 hours. This year, participants are given a real dataset of seismic images from an undisclosed field, and are asked to perform fault segmentation or horizon picking from these images using computer vision methods.
 
+![](https://raw.githubusercontent.com/tnwei/geohack2024/refs/heads/main/images/geohack2024_group_photo_banner.jpg)
+
 Following is a compilation of the hard work done by all teams in this hackathon!
 
 | Team | Challenge | Final presentation | Code |
